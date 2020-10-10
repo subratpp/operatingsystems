@@ -1,0 +1,5 @@
+Hello! This is a input file for prog5.
+The data will get copied to output file.
+Plese check the output file.
+Thanks!
+S
